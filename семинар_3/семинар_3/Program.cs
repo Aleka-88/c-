@@ -37,7 +37,7 @@ Console.WriteLine(Math.Pow(i,3)+"\t");
 
 }
 */
-
+//test изменили программу
 
 
   
