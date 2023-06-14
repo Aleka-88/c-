@@ -42,7 +42,7 @@ Console.WriteLine($"Сумма  {sum}");
 [3.22, 4.2, 1.15, 77.15, 65.2] => 77.15 - 1.15 = 76
 
 */
-int size;
+/*int size;
 Console.Write("Введите кол-во элементов: ");
 size = Convert.ToInt32(Console.ReadLine()); // считываем размер массива
 double [] array = new double [size];
@@ -69,6 +69,7 @@ for (int i = 0; i < size; i++)
 dev = Math.Round(max - min, 2);
 
 Console.WriteLine($"Мин {min} Макс {max} Разница  {dev}");
+*/
 
 
 
